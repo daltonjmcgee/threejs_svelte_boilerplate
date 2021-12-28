@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+}
+
+main {
+  display: flex;
+  .row {
+    flex: 1;
+  }
+}
